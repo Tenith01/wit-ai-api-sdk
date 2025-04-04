@@ -1,3 +1,4 @@
+![Wit.ai SDK](https://jelvix.com/wp-content/uploads/2018/09/Wit.ai-API.jpg)
 # Wit.ai SDK Project
 
 ## 📄 Introduction
