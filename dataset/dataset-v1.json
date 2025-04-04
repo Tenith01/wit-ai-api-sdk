@@ -1,0 +1,7 @@
+[
+  {"text": "Open my profile now.", "entities": [{"entity": "intent", "value": "NAVIGATE_PROFILE"}]},
+  {"text": "Go straight to the home screen.", "entities": [{"entity": "intent", "value": "NAVIGATE_HOME"}]},
+  {"text": "Pull up my memories quickly.", "entities": [{"entity": "intent", "value": "NAVIGATE_MEMORIES"}]},
+  {"text": "Open the community page fast.", "entities": [{"entity": "intent", "value": "NAVIGATE_COMMUNITY"}]},
+  {"text": "Jump to my wanderlist now.", "entities": [{"entity": "intent", "value": "NAVIGATE_WANDERLIST"}]}
+]

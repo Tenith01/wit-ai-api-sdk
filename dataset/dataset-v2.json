@@ -1,0 +1,7 @@
+[
+  {"text": "Play my favorite playlist.", "entities": [{"entity": "intent", "value": "PLAY_PLAYLIST"}]},
+  {"text": "Skip to the next song.", "entities": [{"entity": "intent", "value": "SKIP_TRACK"}]},
+  {"text": "Pause the music now.", "entities": [{"entity": "intent", "value": "PAUSE_MUSIC"}]},
+  {"text": "Turn up the volume a bit.", "entities": [{"entity": "intent", "value": "INCREASE_VOLUME"}]},
+  {"text": "Mute everything instantly.", "entities": [{"entity": "intent", "value": "MUTE_AUDIO"}]}
+]
